@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lucas Wyte: High School",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -73,10 +73,10 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
-    "page2.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "High School Assignments",
